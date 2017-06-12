@@ -1,0 +1,6 @@
+C:\Users\waiya\Documents\Visual Studio 2017\Projects\FirstApplication\FirstApplication\bin\Debug\FirstApplication.exe.config
+C:\Users\waiya\Documents\Visual Studio 2017\Projects\FirstApplication\FirstApplication\bin\Debug\FirstApplication.exe
+C:\Users\waiya\Documents\Visual Studio 2017\Projects\FirstApplication\FirstApplication\bin\Debug\FirstApplication.pdb
+C:\Users\waiya\Documents\Visual Studio 2017\Projects\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csprojResolveAssemblyReference.cache
+C:\Users\waiya\Documents\Visual Studio 2017\Projects\FirstApplication\FirstApplication\obj\Debug\FirstApplication.exe
+C:\Users\waiya\Documents\Visual Studio 2017\Projects\FirstApplication\FirstApplication\obj\Debug\FirstApplication.pdb
